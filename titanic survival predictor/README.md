@@ -156,10 +156,11 @@ This project serves as:
 - joblib >= 1.3.2
 
 ## Author
-**Harshad Kawade**  
-*Date: 18/09/2025*
+**AKASH CHAVAN**  
+
 
 
 
 ## In Memory
 This project is dedicated to the memory of all those who perished in the Titanic disaster on April 15, 1912. May their memory be a blessing and may this analysis serve as a reminder of the importance of safety, equality, and human dignity.
+
