@@ -16,3 +16,4 @@ Machine Learning is part of our daily lives, such as:
 - Helping medical systems detect diseases  
 
 In simple terms, machine learning helps computers become smarter by learning from data and making decisions more accurately than traditional programming.
+
